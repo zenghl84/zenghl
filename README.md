@@ -2,7 +2,7 @@
 
 C++ · Python · JavaScript | Scientific Computing · Engineering Software · 3D Visualization
 
-我是一名具有力学与工程背景的软件开发者，现于东南大学攻读力学硕士。掌握 C++、Python、JavaScript，具备模块化编程、数值计算、工程数据处理与交互可视化能力，能够将力学模型和工程分析需求实现为可运行、可验证的应用。
+我是一名具有力学与工程背景的软件开发者，现攻读力学硕士。掌握 C++、Python、JavaScript，具备模块化编程、数值计算、工程数据处理与交互可视化能力，能够将力学模型和工程分析需求实现为可运行、可验证的应用。
 
 I develop engineering applications with C++17, Python, and JavaScript, combining computational mechanics, numerical computation, data processing, and interactive visualization. My project experience includes a native Windows fracture-mechanics application and a collaborative structural-monitoring analysis workbench.
 
